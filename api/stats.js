@@ -41,7 +41,7 @@ export default async function handler(req, res) {
     const hardWidth = (hard / totalProblems) * maxBar;
 
     const svg = `
-        <svg width="100%" viewBox="0 0 500 180" xmlns="http://www.w3.org/2000/svg">
+        <svg width="350px" viewBox="0 0 500 180" xmlns="http://www.w3.org/2000/svg">
 
         <rect width="100%" height="180" fill="#0f172a" rx="10"/>
 
