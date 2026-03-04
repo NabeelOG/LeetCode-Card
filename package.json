@@ -1,0 +1,6 @@
+{
+    "name": "leetcode-card",
+    "version": "1.0.0",
+    "description": "LeetCode stats card for GitHub README",
+    "type": "module"
+}
